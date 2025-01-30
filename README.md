@@ -1,4 +1,4 @@
 # learning
 this is my first git repositort
 <br>
-author - Prabhujot DEshwal
+author - Prabhujot DEshwal (btech)
